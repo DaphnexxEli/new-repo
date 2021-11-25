@@ -140,4 +140,10 @@ Hotkey:
     Markup Code appears between colons :EMOJICODE:
 
     :mask:
+
     Phanuwat Panya 632115033
+
+
+  Is me Jame :exclamation::exclamation:
+  Jedsada Kampen 632115012
+
